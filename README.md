@@ -16,8 +16,6 @@ After a first selection from the complete dataset, in order to standardize deepf
 2. If applicable, removal of torso
 3. If applicable, removal of visible pony-tails or braids (in case of tied-up hair of females)
 
-Additional information can be found on the official repo [OSF](https://osf.io/jnes3/overview?view_only=85e21df5286f4556ab228c9ed04ab59c).
-
 Here follows a set of samples of the images generated and then manually edited for the study:
 
 <table>
@@ -74,6 +72,8 @@ Here follows a set of samples of the images generated and then manually edited f
     </tr>
   </tbody>
 </table>
+
+The final set of selected stimuli and other related information can be found on the official [OSF repo](https://osf.io/jnes3/overview?view_only=85e21df5286f4556ab228c9ed04ab59c).
 
 ## Prompts
 The prompts slightly vary from each other in order to create diversified images, each one focused on a different detail, but the base is as follows:
