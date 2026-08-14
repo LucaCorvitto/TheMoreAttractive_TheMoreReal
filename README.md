@@ -127,3 +127,7 @@ Specifically, the number of inference steps in the generation process and the wi
 - the **guidance scale** was reduced to ensure a greater variation of faces, trying to keep it high enough to avoid the model ignoring important details specified in the prompt
 
 The actual values are provided in [info.xlsx](https://github.com/LucaCorvitto/TheMoreAttractive_TheMoreReal/blob/main/info.xlsx) and already set in the [script](https://github.com/LucaCorvitto/TheMoreAttractive_TheMoreReal/blob/main/main.py).
+
+## Cite us
+
+Stockner, M., Convertino, G., Marchetti, M., Corvitto, L., Maiano, L., Papa, L., … Mazzoni, G. (2026). The More Attractive the More Real? Cognitive Processes Involved in Deepfake Detection in Young and Older Adults. International Journal of Human–Computer Interaction, 1–17. https://doi.org/10.1080/10447318.2026.2708442
